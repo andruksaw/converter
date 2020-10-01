@@ -1,0 +1,9 @@
+body {
+    margin-top: 70px;
+    background-color: #333333;
+    color: #ffffff;
+}
+
+.card-block {
+    padding: 10px;
+}
